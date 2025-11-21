@@ -118,10 +118,9 @@ The original author, Henning Dieterichs, also developed these extensions:
 -   **[Real-Time Debugging](https://marketplace.visualstudio.com/items?itemName=hediet.realtime-debugging)**: This extension visualizes how your code is being executed.
 
 ## About the Maintainer
-
-This project is currently maintained by Mustaq Sohail Shaik, a Software Engineer dedicated to developing and supporting robust software solutions. Mustaq brings a passion for clean code and effective tools to the project, ensuring its continued reliability and enhancement.
-
-Connect with Mustaq:
--   GitHub: [dirandodda](https://github.com/dirandodda)
--   LinkedIn: [Mustaq Sohail Shaik](https://www.linkedin.com/in/mustaq-sohail-shaik-2224482a8/)
--   Email: sohailshaik8255@gmail.com
+This project is actively maintained by **Diran Dodda**, AI Engineer specializing in intelligent systems, LLMs, and multi-agent architectures. Developed an agent-based Al financial analyst processing 200GB+ data with automated decision-making and NLP models achieving 92% accuracy (published). Built a real-time BERT-driven sentiment analysis system supporting 15K inferences per
+minute.
+Proficient in LangChain, OpenAl APIs, Transformers, RAG systems, and production-grade Al
+deployments on AWS.
+- **GitHub:** [github.com/dirandodda](https://github.com/dirandodda)
+- **Email:** doddadiran@gmail.com 
